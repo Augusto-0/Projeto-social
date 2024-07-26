@@ -7,14 +7,13 @@
 }
 
 html, body {
-    min-height: 700px;
     min-width: 468px;
     
     background-color: black;   
 }
 
 body {
-    
+    min-height: 700px;
     background: url('../imagens/fundo-madeira.jpg') no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
