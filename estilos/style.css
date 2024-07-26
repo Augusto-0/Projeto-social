@@ -7,9 +7,11 @@
 }
 
 html, body {
-    min-width: 468px;
-    
     background-color: black;   
+}
+
+html {
+    min-height: 100%;
 }
 
 body {
