@@ -7,10 +7,9 @@
 }
 
 html, body {
-    min-height: 644px;
-    min-width: 500px;
-    height: 100vh;
-    width: 100vw;
+    min-height: 651px;
+    min-width: 468px;
+    
     background-color: black;   
 }
 
