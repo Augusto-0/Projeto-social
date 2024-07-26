@@ -32,7 +32,7 @@ section#telefone {
     transform: translate(-50%, -50%);
 
     height: 627px;
-    min-width: 311px;
+    width: 311px;
 
     background: url('../imagens/frame-iphone.png') no-repeat;
 }
@@ -48,7 +48,7 @@ iframe#tela {
 section#social {
     text-align: right;
     padding: 10px;
-    min-width: 400px;
+    min-height: 200px;
 }
 
 section#social img {
