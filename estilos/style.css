@@ -13,7 +13,7 @@ html, body {
 }
 
 body {
-    max-width: 500px;
+    min-width: 500px;
     background: url('../imagens/fundo-madeira.jpg') no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
